@@ -212,7 +212,7 @@ nav button {
         /* width: 20vw; */
         font-size: 18px;
         margin: auto;
-        padding: 6px 20px 10px 10px;
+        padding: 6px 8px 6px 6px;
     }
 } 
 
@@ -246,7 +246,7 @@ nav button {
     margin: auto;
     color: white;
     align-items: center;
-    padding: 10px;
+    padding: 5px;
 }
 
 @media screen and (max-width:1400px) {
@@ -274,16 +274,16 @@ nav button {
 
 @media screen and (max-width:1400px) {
     .one .secimg img {
-        max-width: 390px;
+        max-width: 300px;
         position: relative;
         z-index: 10;
     }
 
     .one .secimg video {
         position: absolute;
-        top: 60px;
+        top:50px;
         right: 40px;
-        width: 300px;
+        width: 250px;
     }
 }
 
